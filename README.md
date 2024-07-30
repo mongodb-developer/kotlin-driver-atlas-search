@@ -4,6 +4,7 @@ This repository demonstrates how to integrate MongoDB Atlas Search with the Kotl
 You can read more on:
 - [`Discover Your Ideal Airbnb: Implementing a Spring Boot & Atlas Search with Kotlin Sync Driver`](https://www.mongodb.com/developer/products/atlas/TODOnewURL)
 
+# Demonstration
 ![Demonstration](./demonstration/demonstration.gif)
 
 ## Prerequisites
